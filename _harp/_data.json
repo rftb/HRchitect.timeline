@@ -1,110 +1,61 @@
 {
   "timeline": [
     {
-      "stamp": "Weeks 1-2 (Concurrent with Design Phase) : General, Vendor Hub, Vendor Instance | Sprint 1",
-      "content": "Setup eCommerce",
+      "stamp": "Discovery",
       "links": {
-        "Hosting & DNS : General": "#"
-      , "> CMS : Vendor Hub, Vendor Instance" : "cms-vendor.html"
-      , "SSL : General" : "#"
-      , "> Responsive Template : Vendor Hub, Vendor Instance " : "responsive-vendor.html"
-      , "Cart System Setup / Installation : Vendor Instance" : "#"
-      , "> Product Variations : Vendor Hub" : "product-variation.html"
+        "> Who, What": "is.html"
+      , "> Scope" : "scope.html"
+      , "> Kickoff Notes 6.3.14" : "kickoff.html"
+      }
+    }
+  , {
+      "stamp": "Weeks 1-2 | Sprint 1",
+      "links": {
+        "> Hosting & DNS : General": "hosting.html"
+      , "Security Config" : "#"
+      , "> Backup Solution" : "backup.html"
+      , "> Front End Templating" : "frontend.html"
+      , "> Custom Post Types" : "cpt.html"
+      , "Social Media Integration" : "#"
+      , "Testing" : "#"
       }
     },
     {
       "stamp": "Sprint 1 Deliverables",
       "links": {
-        "eCommerce Worflow": "#"
+        "Hosting, Dev Link": "#"
       }
-    },
-    {
-      "stamp": "Weeks 3-4 (Concurrent with Design Phase) : Vendor Hub, Vendor Instance | Sprint 2",
-      "content": "Setup Vendor Instance framework",
+    }
+  , {
+      "stamp": "Weeks 2-4 | Sprint 2",
       "links": {
-        "User Permissions : Vendor Hub " : "#"
-      , "> Product Sync : Vendor Hub, Vendor Instance " : "product-sync.html"
-      , "> Vendor Wholesale Order Form : Vendor Hub, Vendor Instance " : "vendor-wholesale.html"
-      , "Payment Gateway : Vendor Instance " : "#"
-      , "Email Notifications : Vendor Instance " : "#"
-      , "Reporting : Vendor Instance " : "#"
-      , "Testing : Vendor Hub, Vendor Instance " : "#"
+        "> JavaScript Animation": "animation.html"
+      , "Admin Customization" : "#"
+      , "Connect Front & Back End" : "#"
+      , "Content Input" : "#"
+      , "Marketo Integration" : "#"
+      , "Heavy Testing" : "#"
       }
     },
     {
       "stamp": "Sprint 2 Deliverables",
       "links": {
-        "Vendor Dev Link": "#"
+        "Animation, live ready site": "#"
+      }
+    }
+    , {
+      "stamp": "Week 5 | Sprint 3",
+      "links": {
+        "Analytics" : "#"
+      , "Speed Optimization" : "#"
+      , "Testing": "#"
+      , "Launch": "#"
       }
     },
     {
-      "stamp": "Weeks 5-6 (Post Design Phase) : Main Site | Sprint 3",
-      "content": "Build Responsive Front end",
-      "links": {
-        "CMS : Marketing Site": "#"
-      , "Responsive Framework : Marketing Site": "#"
-      , "Image Gallery : Marketing Site": "#"
-      , "Testing : Marketing Site": "#"
-      }
-    }
-  , {
       "stamp": "Sprint 3 Deliverables",
       "links": {
-        "Marketing Site Dev Link": "#"
-      }
-    }
-  , {
-      "stamp": "Weeks 7-8 : Main Site | Sprint 4",
-      "content": "Animation, Visua Enhancement, & Content Input",
-      "links": {
-        "JavaScript (Animation) : Marketing Site": "#"
-      , "Input Forms : Marketing Site": "#"
-      , "Content Extraction : Marketing Site": "#"
-      , "Content Input : Marketing Site": "#"
-      , "Misc. Admin Customization : Marketing Site": "#"
-      , "> Customer Support Admin : Marketing Site": "customer-support.html"
-      , "Outgoing Emails / Notifications : Marketing Site": "#"
-      , "Social Media Integration : Marketing Site": "#"
-      , "Testing : Marketing Site": "#"
-      }
-    }
-  , {
-      "stamp": "Sprint 4 Deliverables",
-      "links": {
-        "Functional Admin of Marketing Site": "#"
-      }
-    }
-  , {
-      "stamp": "Weeks 9-10 : Main Site | Sprint 5",
-      "content": "Optimization, Analytics, & Testing",
-      "links": {
-        "Speed Optimization : General": "#"
-      , "Internal Search : General": "#"
-      , "SEO : Marketing Site": "#"
-      , "Analytics : All": "#"
-      , "Testing : Marketing Site": "#"
-      }
-    }
-  , {
-      "stamp": "Sprint 5 Deliverables",
-      "links": {
-        "Go live ready Marketing Site": "#"
-      }
-    }
-  , {
-      "stamp": "Weeks 11-12 : Main Site, Vendor Hub, Vendor Instance | Sprint 6",
-      "content": "Testing & Launch",
-      "links": {
-        "Front End Customization : Vendor Hub, Vendor Instance": "#"
-      , "Training : All": "#"
-      , "Testing : All": "#"
-      , "Launch : All": "#"
-      }
-    },
-    {
-      "stamp": "Sprint 6 Deliverables",
-      "links": {
-        "Site Launch": "#"
+        "Live site": "#"
       }
     }
   ]
